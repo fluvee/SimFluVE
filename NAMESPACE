@@ -1,0 +1,3 @@
+useDynLib(SimFlu6)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
